@@ -7,3 +7,5 @@ docker run -d --name sonarqube -e SONAR_ES_BOOTSTRAP_CHECKS_DISABLE=true -p 9000
 Initially the credentials are:  
 - Login: admin  
 - Password: admin  
+
+References: [sonarscanner](https://docs.sonarsource.com/sonarqube/10.3/analyzing-source-code/scanners/sonarscanner/)
